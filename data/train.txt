@@ -1,0 +1,19 @@
+### label example
+
+mask_93.jpg;0
+mask_94.jpg;0
+mask_95.jpg;0
+mask_96.jpg;0
+mask_97.jpg;0
+mask_98.jpg;0
+mask_99.jpg;0
+nomask_1.jpg;1
+nomask_10.jpg;1
+nomask_100.jpg;1
+nomask_101.jpg;1
+nomask_102.jpg;1
+nomask_103.jpg;1
+nomask_104.jpg;1
+nomask_105.jpg;1
+nomask_106.jpg;1
+nomask_107.jpg;1
