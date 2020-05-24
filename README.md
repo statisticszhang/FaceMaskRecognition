@@ -1,6 +1,6 @@
 # FaceMaskRecognition
 
-A Easy Real-time Face Mask Recognition
+This is a simple deep learning mask wear detection project, using mtcnn + mobilenet to achieve mask detection, in addition, there is an online reference project for everyone to learn.
 
 ## 1. Machine environment
 
@@ -22,9 +22,15 @@ mobilenet
 
 mtcnn
 
-## 3. Data
+## 3. Data and Pre-trained model
 
 Mask dataset
+
+>Acquisition method
+
+Follow WeChat Official Account：Art-Intelligence
+
+WeChat public account reply：口罩数据集
 
 ## 4. Implement
 
