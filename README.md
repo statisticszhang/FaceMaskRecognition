@@ -30,7 +30,7 @@ Mask dataset
 
 Follow WeChat Official Account：Art-Intelligence
 
-WeChat public account reply：口罩数据集
+WeChat public account reply：" 口罩数据集 " or " mask data set "
 
 ## 4. Implement
 
